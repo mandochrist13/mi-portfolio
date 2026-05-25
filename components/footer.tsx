@@ -69,10 +69,10 @@ export function Footer() {
                 </Link>
               ))}
               <Link
-                href="mailto:hello@camillelaurent.com"
+                href="mailto:hello@MiriameDOUTSONA .com"
                 className="text-sm text-background/60 hover:text-background transition-colors"
               >
-                hello@camillelaurent.com
+                hello@MiriameDOUTSONA .com
               </Link>
             </div>
           </div>

@@ -42,7 +42,7 @@ export const projects: Project[] = [
       "30% increase in direct-to-consumer sales"
     ],
     testimonial: {
-      quote: "Camille understood our heritage and transformed it into something that resonates with today's luxury consumer. The results exceeded our expectations.",
+      quote: "Miriame understood our heritage and transformed it into something that resonates with today's luxury consumer. The results exceeded our expectations.",
       author: "Marie-Claire Dubois",
       role: "CEO, Maison Lumière"
     },
@@ -108,8 +108,8 @@ export const projects: Project[] = [
       "Waitlist of 10,000+ for hero product"
     ],
     testimonial: {
-      quote: "Camille's strategic vision helped us stand out in a market where everyone claims to be sustainable.",
-      author: "Sophie Laurent",
+      quote: "Miriame's strategic vision helped us stand out in a market where everyone claims to be sustainable.",
+      author: "Sophie DOUTSONA ",
       role: "Founder, Essence Beauty"
     },
     gallery: [

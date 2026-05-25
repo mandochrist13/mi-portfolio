@@ -74,10 +74,10 @@ export function ContactSection() {
               <div>
                 <span className="text-xs tracking-widest uppercase text-muted-foreground block mb-2">Email</span>
                 <Link 
-                  href="mailto:hello@camillelaurent.com"
+                  href="mailto:hello@MiriameDOUTSONA .com"
                   className="font-serif text-xl hover:italic transition-all duration-300"
                 >
-                  hello@camillelaurent.com
+                  hello@MiriameDOUTSONA .com
                 </Link>
               </div>
               <div>

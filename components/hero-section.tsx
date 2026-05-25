@@ -10,7 +10,7 @@ export function HeroSection() {
       {/* Background decorative elements */}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute top-20 left-6 lg:left-12 text-xs tracking-widest uppercase text-muted-foreground">
-          @camille.laurent
+          @Miriame.DOUTSONA 
         </div>
         <div className="absolute top-20 right-6 lg:right-12 text-xs tracking-widest uppercase text-muted-foreground">
           Communication Strategist
@@ -40,7 +40,7 @@ export function HeroSection() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8, delay: 0.5 }}
                 >
-                  Camille
+                  Miriame
                 </motion.h1>
                 <motion.h1 
                   className="font-serif text-6xl sm:text-7xl lg:text-8xl xl:text-9xl font-medium tracking-tight leading-none italic"
@@ -48,7 +48,7 @@ export function HeroSection() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8, delay: 0.7 }}
                 >
-                  Laurent
+                  DOUTSONA 
                 </motion.h1>
               </div>
 

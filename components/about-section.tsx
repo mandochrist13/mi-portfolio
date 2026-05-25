@@ -28,7 +28,7 @@ export function AboutSection() {
           transition={{ duration: 0.8 }}
           className="mb-20"
         >
-          <span className="text-xs tracking-widest uppercase text-muted-foreground">@camille.laurent</span>
+          <span className="text-xs tracking-widest uppercase text-muted-foreground">@Miriame.DOUTSONA </span>
           <motion.div 
             initial={{ scaleX: 0 }}
             animate={isInView ? { scaleX: 1 } : { scaleX: 0 }}
